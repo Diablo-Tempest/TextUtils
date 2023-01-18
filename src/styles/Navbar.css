@@ -1,0 +1,22 @@
+#searchBar::placeholder{
+    color: grey;
+}
+.sun{
+    margin: auto;
+  width: 30px;
+  height: 30px;
+  border-radius: 260px;
+  
+  box-shadow: 0px 0px 16px #dbdbdb;
+}
+#sunWhite{
+    background: rgb(255,255,255);
+    
+}
+#sunGrey{
+    background: grey;
+   
+}
+#sunBlack{
+    background: #212529;
+}
